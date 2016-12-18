@@ -1,4 +1,4 @@
-# py-R-FCN
+# py-R-FCN Python version of R-FCN
 R-FCN: Object Detection via Region-based Fully Convolutional Networks
 
 py-R-FCN now supports both joint training and alternative optimization. 
